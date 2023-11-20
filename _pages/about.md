@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "ECAS-Ling"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+ECAS (Embedded Computing Architecture and Systems) Group belongs to Ming Ling, School of Intergrated Circuits, Southeast University. Group members are working on 3 areas: Vina FPGA, Quantitative Analysis and RISC-V.
 
 A data-driven personal website
 ======
