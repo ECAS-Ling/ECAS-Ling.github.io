@@ -9,14 +9,26 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Vina"
+    url: /Vina/
+
+  - title: "Quantitative Analysis"
+    url: /Quantitative Analysis/
+
+  - title: "RISC-V"
+    url: /RISC-V/
+
+#  - title: "Portfolio"
+#    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
+#  - title: "CV"
+#    url: /cv/
+
+  - title: "Team"
+    url: /Team/
+
 #  - title: "Guide"
 #    url: /markdown/
