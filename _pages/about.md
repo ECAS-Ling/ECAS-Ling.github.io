@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ECAS-Ling"
-excerpt: "About me"
+excerpt: "ECAS-Ling"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,9 @@ redirect_from:
 
 Personal Introduction
 ======
-Ming Ling is an Associate professor and Phd Advisor of National ASIC engineering center, Southeast University, and he is also the Vice Director of Electrical and Electronic Experiment Center. He mainly works on SoC design and courses of embedded system. His research interests include ***computer architecture and quantitative analysis, domain specific architecture and embedded system***.  
+Ming Ling (Member, IEEE) is an Associate professor and Phd Advisor of **The National ASIC System Engineering Technology Research Center**, Southeast University, and he is also the Vice Director of Electrical and Electronic Experiment Center. His current research interests include *memory subsystem of system-on-chip (SoC), processor architecture, and domain-specific architecture*.  
 
-Ming Ling got all his academic degree in Southeast University. He received his Bachelor Degree at School of Electronic Engineering, and his Master and Phd degree at School of Electronic Science and Engineering. His advisor is Longxing Shi. From 2013 to 2014, he went to School of Computer Science, University of Victoria, Canada as visit scholar.
+Ming Ling received the B.S., M.S., and Ph.D. degrees from Southeast University, Nanjing, China, in 1994, 2001, and 2011, respectively. His advisor is Longxing Shi. From 2013 to 2014, he went to School of Computer Science, University of Victoria, Canada as visit scholar.
 
 Publications
 ======
