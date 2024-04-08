@@ -20,9 +20,11 @@ We designed the **interconnection structure and programming framework** for mult
 We explored **processor soft error resilience strategy**, and proposed a set of soft error detection and recovery mechanisms in a RISC-V in-order single-core processor.This innovation significantly improved the soft error reslience with reasonable performance and resource overhead. This work has resulted in a patent, and we plan to publish a paper. We continued our collaboration with Qinheng in this project.
 
 ---
-Currently, we are collaborating with Sanechips to implement the RISC-V instruction set in a **network processor**, and propose a new network processor instruction set based on RISC-V later.
+Currently, we are collaborating with Sanechips to create a network packet processing scheme and specialized extended instructions based on RISC-V. Then we try to design a general network packet processor based on this architecture.
 
 # Collaborating Companies
 ![wch](/images/my_image/wch.png)
 
 ![sanechips](/images/my_image/sanechips.png)
+
+*Lastest version: 2024.4.8*

@@ -10,10 +10,8 @@ redirect_from:
 
 **ECAS (Embedded Computing Architecture and Systems)** Group belongs to **Ming Ling**, [School of Intergrated Circuits](https://ic.seu.edu.cn), Southeast University, China. Group members are working on 3 areas: 
 
-[Vina](https://ecas-ling.github.io/Vina/)
-
-[Quantitative Analysis](https://ecas-ling.github.io/Quantitative-Analysis/)
-
+[Vina](https://ecas-ling.github.io/Vina/)  
+[Quantitative Analysis](https://ecas-ling.github.io/Quantitative-Analysis/)  
 [RISC-V](https://ecas-ling.github.io/RISC-V/)
 
 Personal Introduction
@@ -24,3 +22,9 @@ Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in
 
 Selected Publications
 ======
+
+Research Team
+===
+![research team](../../images/picture/picture16-9.JPG)
+
+*Lastest version: 2024.4.8*
