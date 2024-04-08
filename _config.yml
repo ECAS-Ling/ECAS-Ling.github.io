@@ -84,9 +84,9 @@ author:
   avatar           : "mingling.png"
   bio              : "Associate Professor"
   location         : 
-  employer         : "ASIC Center, SEU"
+  employer         : "Southeast University"
   pubmed           : 
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=mHkouiAAAAAJ&hl"
   email            : "trio@seu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
