@@ -12,5 +12,7 @@ We employ methodologies, including benchmarking, simulation, modeling, etc., to 
 
 If you are interested in learning and working on Quantitative Analysis or Computer Architecture, please consider joining our group.
 
+# Publications
+
 # Collaborating Company
-![oppo](../../images/my_image/oppo.jpg)
+![oppo](/images/my_image/oppo.jpg)
