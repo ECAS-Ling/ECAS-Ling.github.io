@@ -27,4 +27,4 @@ Currently, we are collaborating with Sanechips to create a network packet proces
 
 ![sanechips](/images/my_image/sanechips.png)
 
-*Lastest version: 2024.4.8*
+> *Lastest edit in 2024.4.8*

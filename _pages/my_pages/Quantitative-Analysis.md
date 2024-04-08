@@ -33,4 +33,4 @@ DOI: [10.1109/LES.2021.3113347](10.1109/LES.2021.3113347)
 # Collaborating Company
 ![oppo-logo](/images/my_image/oppo-logo.png)
 
-*Lastest version: 2024.4.8*
+>*Lastest edit in 2024.4.8*

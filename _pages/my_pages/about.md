@@ -27,4 +27,4 @@ Research Team
 ===
 ![research team](../../images/picture/picture16-9.JPG)
 
-*Lastest version: 2024.4.8*
+> *Lastest edit in 2024.4.8*
