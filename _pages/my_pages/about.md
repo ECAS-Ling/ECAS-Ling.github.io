@@ -22,8 +22,5 @@ Ming Ling (Member, IEEE) is an Associate Professor and Phd Advisor of **The Nati
 
 Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in 1994, 2001 and 2011 respectively. His advisor is Longxing Shi. From 2013 to 2014, he was a visiting scholar at School of Computer Science, University of Victoria, Canada.
 
-Publications
-======
-
-Teaching  
+Selected Publications
 ======

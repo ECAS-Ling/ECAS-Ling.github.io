@@ -12,12 +12,12 @@ RISC-V (pronounced "risk-five") is an open standard instruction set architecture
 # Research
 Our research implies RISC-V on multi-core interconnection, processor soft error resilience strategy, and general network processor architecture. 
 
-We designed the **interconnection structure and programming framework** for multi-core RISC-V architecture in edge computing scenarios, and implemented a complete runnable prototype of a multi-core processor. This project was sponsored by Nanjing Qinheng Microelectronics.
+We designed the **interconnection structure and programming framework** for multi-core RISC-V architecture in edge computing scenarios, and implemented a complete runnable prototype of a multi-core processor. This architecture is named **PULP-Lite**. This project was sponsored by Nanjing Qinheng Microelectronics.
 
 ![pulp-lite](/images/my_image/pulp-lite.png)
 
 ---
-We explored **processor soft error resilience strategy**, and proposed a set of soft error detection and recovery mechanisms in a RISC-V in-order single-core processor.This innovation significantly improved the soft error reslience with reasonable performance and resource overhead. This work has resulted in a patent, and we plan to publish a paper. We continued our collaboration with Qinheng.
+We explored **processor soft error resilience strategy**, and proposed a set of soft error detection and recovery mechanisms in a RISC-V in-order single-core processor.This innovation significantly improved the soft error reslience with reasonable performance and resource overhead. This work has resulted in a patent, and we plan to publish a paper. We continued our collaboration with Qinheng in this project.
 
 ---
 Currently, we are collaborating with Sanechips to implement the RISC-V instruction set in a **network processor**, and propose a new network processor instruction set based on RISC-V later.

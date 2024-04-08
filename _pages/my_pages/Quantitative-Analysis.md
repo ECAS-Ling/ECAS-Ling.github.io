@@ -13,6 +13,10 @@ We employ methodologies, including benchmarking, simulation, modeling, etc., to 
 If you are interested in learning and working on Quantitative Analysis or Computer Architecture, please consider joining our group.
 
 # Publications
+### A Quantitative Analysis and Optimization on the Cache Behavior Influenced by Literal Pools
+M. Ling, H. Li and X. Yu  
+IEEE Embedded Systems Letters, 2022  
+DOI: [10.1109/LES.2021.3113347](10.1109/LES.2021.3113347)
 
 # Collaborating Company
 ![oppo](/images/my_image/oppo.jpg)
