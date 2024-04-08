@@ -1,6 +1,6 @@
 ---
-permalink: /Quantitative Analysis/
-title: "Quantitative Analysis"
+permalink: /Quantitative-Analysis/
+title: "Quantitative-Analysis"
 author_profile: true
 ---
 
