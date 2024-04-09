@@ -5,109 +5,100 @@ author_profile: true
 ---
 
 ------
-
-<!-- 2024  
-======  
-------
-* ### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism 
-  IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), Early access -->
-
 2023 
 ====== 
+
+### Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, a Case Study on the Molecular Docking Tool Autodock Vina
+- Xingxing Zhou, **Ming Ling**, Qingde Lin, Shidi Tang, Jiansheng Wu, Haifeng Hu
+- 2023 IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)
+- DOI: [10.1109/TCBB.2023.3323552](https://doi.org/10.1109/TCBB.2023.3323552)
+
+### Vina-GPU 2.0: Further Accelerating AutoDock Vina and Its Derivatives with Graphics Processing Units
+- Ji Ding, Shidi Tang, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, **Ming Ling**, and Jiansheng Wu  
+- 2023 Journal of Chemical Information and Modeling  
+- DOI: [10.1021/acs.jcim.2c01504](https://doi.org/10.1021/acs.jcim.2c01504)
+
+### A Novel Delay Calibration Method Considering Interaction between Cells and Wires
+- Leilei Jin, Jiajie Xu, Wenjie Fu, Hao Yan, Xiao Shi, **Ming Ling**, Longxing Shi  
+- 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)  
+- DOI: [10.23919/DATE56975.2023.10136932](https://doi.org/10.23919/DATE56975.2023.10136932)
+
 ------
-
-* ### Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks 
-  DOI: [10.1109/FPL60245.2023.00039](http://dx.doi.org/10.1109/FPL60245.2023.00039)
-
-  2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
-
-* ### FPGA Accelerating Multi-source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-coupled Receptors
-  DOI: [10.1109/FPL60245.2023.00054](http://dx.doi.org/10.1109/FPL60245.2023.00054)
-
-  2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)
-
-* ### g-BERT: Enabling Green BERT Deployment on FPGA via Hardware-Aware Hybrid Pruning
-  DOI: [10.1109/ICC45041.2023.10278567](http://dx.doi.org/10.1109/ICC45041.2023.10278567)
-
-  2023 IEEE International Conference on Communications (ICC)
-
-* ### eSSpMV: An Embedded-FPGA-based Hardware Accelerator for Symmetric Sparse Matrix-Vector Multiplication
-  DOI: [10.1109/ISCAS46773.2023.10181734](http://dx.doi.org/10.1109/ISCAS46773.2023.10181734)
-
-  2023 IEEE International Symposium on Circuits and Systems (ISCAS)
-
-* ### Edge FPGA-based Onsite Neural Network Training
-  DOI: [10.1109/ISCAS46773.2023.10181582](http://dx.doi.org/10.1109/ISCAS46773.2023.10181582)
-
-  2023 IEEE International Symposium on Circuits and Systems (ISCAS)
-
-* ### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
-  DOI: [10.1109/TVLSI.2022.3217275](http://dx.doi.org/10.1109/TVLSI.2022.3217275)
-
-  IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2023, 31(4): 484-497.
-
-* ### Graph-OPU: An FPGA-Based Overlay Processor for Graph Neural Networks
-  DOI: [10.1145/3543622.3573152](http://dx.doi.org/10.1145/3543622.3573152)
-
-  Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)
-
-
 2022 
 ====== 
+
+### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
+- **Ming Ling**, Qingde Lin, Ruiqi Chen, Haimeng Qi, Mengru Lin, Yanxiang Zhu, Jiansheng Wu
+- 2023 IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+- DOI: [10.1109/TVLSI.2022.3217275](https://doi.org/10.1109/TVLSI.2022.3217275)
+
+### A Timing Yield Model for SRAM Cells at Sub/Near-Threshold Voltages Based on a Compact Drain Current Model
+- Shan Shen, Peng Cao, **Ming Ling**, Longxing Shi
+- 2023 IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
+- DOI: [10.1109/TCAD.2022.3194812](https://doi.org/10.1109/TCAD.2022.3194812)
+
+### Accelerating autodock vina with gpus
+- Shidi Tang, Ruiqi Chen, Mengru Lin, Qingde Lin, Yanxiang Zhu, Ji Ding, Haifeng Hu, **Ming Ling**, Jiansheng Wu
+- 2022 Molecules
+- DOI: [10.3390/molecules27093041](https://doi.org/10.3390/molecules27093041)
+
 ------
-
-* ### A survey of field programmable gate array (FPGA)-based graph convolutional neural network accelerators: challenges and opportunities
-  DOI: [10.7717/peerj-cs.1166](http://dx.doi.org/10.7717/peerj-cs.1166)
-
-  PeerJ Computer Science, 2022, 8: e1166.
-
-* ### Evaluation of Fast Sample Entropy Algorithms on FPGAs: From Performance to Energy Efficiency
-  DOI: [10.3390/e24091177](http://dx.doi.org/10.3390/e24091177)
-
-  Entropy, 2022, 24(9): 1177.
-
-* ### Hardware-friendly compression and hardware acceleration for transformer: A survey
-  DOI: [10.3934/era.2022192](http://dx.doi.org/10.3934/era.2022192)
-
-  Electronic Research Archive, 2022, 30(10): 3755-3785.
-
-* ### Implementation of quasi-Newton algorithm on FPGA for IoT endpoint devices
-  DOI: [10.1504/IJSN.2022.123300](http://dx.doi.org/10.1504/IJSN.2022.123300)
-
-  International Journal of Security and Networks, 2022, 17(2): 124-134.
-
-* ### Biological Activity Prediction of GPCR-targeting Ligands on Heterogeneous FPGA-based Accelerators
-  DOI: [10.1109/FCCM53951.2022.9786139](http://dx.doi.org/10.1109/FCCM53951.2022.9786139)
-
-  2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
-
-* ### Accelerating AutoDock VINA with GPUs
-  DOI: [10.3390/molecules27093041](http://dx.doi.org/10.3390/molecules27093041)
-
-  Molecules, 2022, 27(9): 3041.
-
-
 2021 
 ====== 
+
+### Mlof: Machine learning accelerators for the low-cost fpga platforms
+- Ruiqi Chen, Tianyu Wu, Yuchen Zheng, **Ming Ling**
+- 2021 Applied sciences
+- DOI: [10.3390/app12010089](https://doi.org/10.3390/app12010089)
+
+### A Design of Timing Speculation SRAM-Based L1 Caches With PVT Autotracking Under Near-Threshold Voltages
+- **Ming Ling**, Qingde Lin, Ke Tan, Tianxiang Shao, Shan Shen, Jun Yang
+- 2021 IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+- DOI: [10.1109/TVLSI.2021.3120653](https://doi.org/10.1109/TVLSI.2021.3120653)
+
+### A Quantitative Analysis and Optimization on the Cache Behavior Influenced by Literal Pools
+- **Ming Ling**, Hongxi Li, Xiang Yu
+- 2022 IEEE Embedded Systems Letters
+- DOI: [10.1109/LES.2021.3113347](http://dx.doi.org/10.1109/LES.2021.3113347)
+
+### A fast cross-layer dynamic power estimation method by tracking cycle-accurate activity factors with spark streaming
+- Leilei Jin, Wenjie Fu, **Ming Ling**, Longxing Shi
+- 2021 IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI)
+- DOI: [10.1109/TVLSI.2021.3111000](https://doi.org/10.1109/TVLSI.2021.3111000)
+
+### Analytical modeling the multi-core shared cache behavior with considerations of data-sharing and coherence
+- **Ming Ling**, Xiaoqian Lu, Guangmin Wang, Jiancong Ge
+- 2021 IEEE Access
+- DOI: [10.1109/ACCESS.2021.3053350](https://doi.org/10.1109/ACCESS.2021.3053350)
+
 ------
+2020
+======
 
-* ### MLoF: Machine Learning Accelerators for the Low-Cost FPGA Platforms
-  DOI: [10.3390/app12010089](http://dx.doi.org/10.3390/app12010089)
+### VASTA: A wide voltage statistical timing analysis tool based on variation-aware cell delay models
+- Wenjie Fu, Leilei Jin, **Ming Ling**, Yu Zheng, Longxing Shi
+- 2020 IEEE Access
+- DOI: [10.1109/ACCESS.2020.3035263](https://doi.org/10.1109/ACCESS.2020.3035263)
 
-  Applied sciences, 2021, 12(1): 89.
+### Fast modeling L2 cache reuse distance histograms using combined locality information from software traces
+- **Ming Ling**, Jiancong Ge, Guangmin Wang
+- 2020 Journal of Systems Architecture
+- DOI: [10.1016/j.sysarc.2020.101745](https://doi.org/10.1016/j.sysarc.2020.101745)
 
-* ### Gutter oil detection for food safety based on multi-feature machine learning and implementation on FPGA with approximate multipliers
-  DOI: [10.7717/peerj-cs.774](http://dx.doi.org/10.7717/peerj-cs.774)
+### TYMER: A yield-based performance model for timing-speculation SRAM
+- Shan Shen, Liang Pang, Tianxiang Shao, **Ming Ling**, Xiao Shi, Longxing Shi
+- 2020 ACM/IEEE Design Automation Conference (DAC)
+- DOI: [10.1109/DAC18072.2020.9218623](https://doi.org/10.1109/DAC18072.2020.9218623)
 
-  PeerJ Computer Science, 2021, 7: e774.
+### A cross-layer power and timing evaluation method for wide voltage scaling
+- Wenjie Fu, Leilei Jin, **Ming Ling**, Yu Zheng, Longxing Shi
+- 2020 ACM/IEEE Design Automation Conference (DAC)
+- DOI: [10.1109/DAC18072.2020.9218682](https://doi.org/10.1109/DAC18072.2020.9218682)
 
-* ### Low-power Iris Recognition System Implementation on FPGA with Approximate Multiplier
-  DOI: [10.53106/199115992021103205009](http://dx.doi.org/10.53106/199115992021103205009)
+### Modeling and Designing of a PVT Auto-tracking Timing-speculative SRAM
+- Shan Shen, Tianxiang Shao, **Ming Ling**, Jun Yang, Longxing Shi
+- 2020 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+- DOI: [10.23919/DATE48585.2020.9116569](https://doi.org/10.23919/DATE48585.2020.9116569)
 
-  Journal of Computers (TW), 2021, 32: 115-127.
-
-* ### Wearable on-device deep learning system for hand gesture recognition based on FPGA accelerator
-  DOI: [10.3934/mbe.2021007](http://dx.doi.org/10.3934/mbe.2021007)
-
-  Mathematical Biosciences and Engineering, 2021, 18(1): 132-153.
-
+> Publications since 2020 are listed   
+> *Latest edited in 2024.4.9*
