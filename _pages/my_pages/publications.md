@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 ------
-2023 
-====== 
+# 2023 
 
 ### Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, a Case Study on the Molecular Docking Tool Autodock Vina
 - Xingxing Zhou, **Ming Ling**, Qingde Lin, Shidi Tang, Jiansheng Wu, Haifeng Hu
@@ -24,8 +23,7 @@ author_profile: true
 - DOI: [10.23919/DATE56975.2023.10136932](https://doi.org/10.23919/DATE56975.2023.10136932)
 
 ------
-2022 
-====== 
+# 2022 
 
 ### Vina-FPGA: A Hardware-Accelerated Molecular Docking Tool With Fixed-Point Quantization and Low-Level Parallelism
 - **Ming Ling**, Qingde Lin, Ruiqi Chen, Haimeng Qi, Mengru Lin, Yanxiang Zhu, Jiansheng Wu
@@ -43,8 +41,7 @@ author_profile: true
 - DOI: [10.3390/molecules27093041](https://doi.org/10.3390/molecules27093041)
 
 ------
-2021 
-====== 
+# 2021 
 
 ### Mlof: Machine learning accelerators for the low-cost fpga platforms
 - Ruiqi Chen, Tianyu Wu, Yuchen Zheng, **Ming Ling**
@@ -72,8 +69,7 @@ author_profile: true
 - DOI: [10.1109/ACCESS.2021.3053350](https://doi.org/10.1109/ACCESS.2021.3053350)
 
 ------
-2020
-======
+# 2020
 
 ### VASTA: A wide voltage statistical timing analysis tool based on variation-aware cell delay models
 - Wenjie Fu, Leilei Jin, **Ming Ling**, Yu Zheng, Longxing Shi
