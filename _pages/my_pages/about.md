@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 <center>
-  <h3>Welcome to ECAS!</h3>
+  <h1>Welcome to ECAS!</h1>
   <img src="/images/my_image/ECAS-logo.jpg" style="width: 300px; height: auto;">
 </center>
+<br>
 
 **ECAS (Embedded Computing Architecture and Systems)** Group belongs to **Ming Ling**, [School of Intergrated Circuits](https://ic.seu.edu.cn), Southeast University, China. Group members are working on 3 areas: 
 
