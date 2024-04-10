@@ -14,7 +14,7 @@ author_profile: true
 
 ### Vina-GPU 2.0: Further Accelerating AutoDock Vina and Its Derivatives with Graphics Processing Units
 - Ji Ding, Shidi Tang, Zheming Mei, Lingyue Wang, Qinqin Huang, Haifeng Hu, **Ming Ling**, and Jiansheng Wu  
-- 2023 Journal of Chemical Information and Modeling  
+- 2023 Journal of Chemical Information and Modeling (JCIM)
 - DOI: [10.1021/acs.jcim.2c01504](https://doi.org/10.1021/acs.jcim.2c01504)
 
 ### A Novel Delay Calibration Method Considering Interaction between Cells and Wires
@@ -97,4 +97,4 @@ author_profile: true
 - DOI: [10.23919/DATE48585.2020.9116569](https://doi.org/10.23919/DATE48585.2020.9116569)
 
 > Publications since 2020 are listed   
-> *Latest edited in 2024.4.9*
+> *Latest edited in 2024.4*
