@@ -14,7 +14,7 @@ Our research implies RISC-V on multi-core interconnection, processor soft error 
 
 We designed the **interconnection structure and programming framework** for multi-core RISC-V architecture in edge computing scenarios, and implemented a complete runnable prototype of a multi-core processor. This architecture is named **PULP-Lite**. This project was sponsored by Nanjing Qinheng Microelectronics.
 
-![pulp-lite](/images/my_image/pulp-lite.png)
+<img src="\images\my_image\pulp-lite.png" style="width: auto; height: 300px;">
 
 ---
 We explored **processor soft error resilience strategy**, and proposed a set of soft error detection and recovery mechanisms in a RISC-V in-order single-core processor.This innovation significantly improved the soft error reslience with reasonable performance and resource overhead. This work has resulted in a patent, and we plan to publish a paper. We continued our collaboration with Qinheng in this project.
@@ -23,8 +23,8 @@ We explored **processor soft error resilience strategy**, and proposed a set of 
 Currently, we are collaborating with Sanechips to create a network packet processing scheme and specialized extended instructions based on RISC-V. Then we try to design a general network packet processor based on this architecture.
 
 # Collaborating Companies
-![wch](/images/my_image/wch.png)
+<img src="\images\my_image\wch.png" style="width: auto; height: 100px;">
 
-![sanechips](/images/my_image/sanechips.png)
+<img src="\images\my_image\sanechips.png" style="width: auto; height: 100px;">
 
 > *Last edited in 2024.4.8*
