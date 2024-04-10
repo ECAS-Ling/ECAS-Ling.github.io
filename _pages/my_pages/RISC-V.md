@@ -3,9 +3,9 @@ permalink: /RISC-V/
 title: "RISC-V"
 author_profile: true
 ---
-
-<img src='/images/my_image/risc-v.png'>
-
+<center>
+    <img src='/images/my_image/risc-v.png' style="width: auto; height: 150px;">
+</center>
 
 RISC-V (pronounced "risk-five") is an open standard instruction set architecture (ISA) based on established reduced instruction set computing (RISC) principles. Unlike proprietary ISAs, the RISC-V ISA is provided under open source licenses that do not require fees to use. This openness allows any organization or individual to design, manufacture, and sell RISC-V chips and software without paying royalties.
 
