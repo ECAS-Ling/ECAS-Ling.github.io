@@ -9,7 +9,7 @@ redirect_from:
 ---
 <center>
   <h1>Welcome to ECAS!</h1>
-  <img src="/images/my_image/ECAS-logo.jpg" style="width: 300px; height: auto;">
+  <img src="/images/my_image/ECAS-logo.png" style="width: 300px; height: auto;">
 </center>
 <br>
 
