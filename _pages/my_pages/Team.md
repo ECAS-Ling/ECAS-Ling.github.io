@@ -25,10 +25,6 @@ author_profile: true
         max-width: 1200px;
         margin: 40px;
     }
-    .row:first-child .member:first-child {
-        margin: 0 auto; /* 第一个成员居中对齐 */
-        align-items: center; /* 确保内容（图片和文本）居中 */
-    }
     .member {
         display: flex;
         flex-direction: column;
@@ -37,11 +33,11 @@ author_profile: true
         width: calc(50% - 40px);
     }
     .member img {
-        border-radius: 5px;
+        border-radius: 10px;
         width: 200px;
         height: 200px;
         object-fit: cover;
-        margin-bottom: 10px; /* 减小图片与文本之间的间隔 */
+        margin-bottom: 0px; /* 减小图片与文本之间的间隔 */
     }
     .member-info {
         text-align: center;
@@ -56,29 +52,23 @@ author_profile: true
             width: 80%;
             margin: 20px 0;
         }
-        .row:first-child .member:first-child {
-            margin: 0 auto; /* 确保移动视图下也是居中 */
-        }
     }
 </style>
 </head>
 <body>
 
 <img src="..\..\images\picture\picture16-9.JPG">
+<br>
 
 <h1>Principle Investigator</h1>
 
-<div class="row.first-child">
-    <div class="member.first-child">
-        <img src="..\..\images\mingling.png" alt="">
-        <div class="member-info">
-            <h3>Ming Ling<br>凌明</h3>
-            <p>Associate Professor</p>
-        </div>
-    </div>
-</div>
+<center>
+    <img src="..\..\images\mingling.png">
+        <h3>Ming Ling<br>凌明</h3>
+        <p>Associate Professor</p>
+</center>
 
-<h2>Ph.D. Students</h2>
+<h1>Ph.D. Students</h1>
 
 <div class="row">
     <div class="member">

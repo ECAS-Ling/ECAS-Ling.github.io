@@ -12,7 +12,7 @@ If you are interested in learning and working on Quantitative Analysis or Comput
 # Projects
 We are currently collaborating with OPPO, and have established the *SEU-OPPO Joint R&D Center for Software and Hardware Co-innovation of Intelligent Terminal System*. There are 2 projects running in the Joint R&D Center, and more projects is coming soon.  
 <center>
-    <img src="\images\my_image\oppo-lab.jpg" style="width:100%; height:auto; max-height:300px;">
+    <img src="\images\my_image\oppo-lab.jpg" style="width:auto; max-height:300px;">
 </center>
 
 ## Benchmark Program Synthesis
@@ -29,6 +29,6 @@ This project focus on the development of a **simulation platform for memory subs
 - DOI: [10.1109/LES.2021.3113347](http://dx.doi.org/10.1109/LES.2021.3113347)
 
 # Collaborating Company
-<img src="\images\my_image\oppo-logo.png" style="width:100%; height:auto; max-height:200px;">
+<img src="\images\my_image\oppo-logo.png" style="width:auto; max-height:200px;">
 
 >*Last edited in 2024.4*
