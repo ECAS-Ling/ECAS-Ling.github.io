@@ -13,7 +13,7 @@ redirect_from:
 </center>
 <br>
 
-**ECAS (Embedded Computing Architecture and Systems)** Group belongs to **Ming Ling**（凌明）, [School of Intergrated Circuits](https://ic.seu.edu.cn), Southeast University, China. Group members are working on 3 areas: 
+**ECAS (Embedded Computing Architecture and Systems)** Group belongs to **Ming Ling**凌明）, [School of Intergrated Circuits](https://ic.seu.edu.cn), Southeast University, China. Group members are working on 3 areas: 
 
 [Vina](https://ecas-ling.github.io/Vina/)  
 [Quantitative Analysis](https://ecas-ling.github.io/Quantitative-Analysis/)  
