@@ -4,7 +4,6 @@ title: "Team"
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -62,6 +61,11 @@ author_profile: true
 </style>
 </head>
 <body>
+
+<img src="..\..\images\picture\picture16-9.JPG">
+
+---
+<h2>Principle Investigator</h2>
 
 <div class="row">
     <div class="member">
@@ -304,6 +308,8 @@ author_profile: true
         </div>
     </div>
 </div>
+
+> Latest edited in 2024.4
 
 </body>
 </html>
