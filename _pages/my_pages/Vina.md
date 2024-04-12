@@ -16,7 +16,7 @@ Thus, hardware acceleration approaches of Vina are the main topics of Vina group
 # Research
 Vina group is making efforts to accelerate vina with GPU, FPGA and recyclable smartphones.  
 <center>
-    <img src="..\..\images\my_image\vina-acceleration.png" style="width: auto; height: 400;">
+    <img src="..\..\images\my_image\vina-acceleration.png" style="width: auto; height: 400px;">
 </center>
 
 ## 1. GPU
@@ -36,7 +36,7 @@ Hardware acceleration of Vina on FPGA platforms offers a high energy-efficiency 
 ## 3. Smartphones
 Virtual screening plays an indispensable role in the early stages of drug discovery, which utilizes high-throughput molecular docking to find potential drug candidates from vast databases. This work introduces **EEVS (Economical and Ecological Virtual Screening)**, an innovative framework that utilizes the computational capabilities of **discarded smartphones** for cost-effective and ecofriendly virtual screening. To the best of our knowledge, we are the first to propose a virtual screening framework that leverages discarded smartphones to accelerate drug discovery.
 <center>
-    <img src="..\..\images\my_image\vina-eevs.png" style="width: auto; height: 200px;">
+    <img src="..\..\images\my_image\vina-eevs.png" style="width: auto; height: 400px;">
 </center>
 <br>
 

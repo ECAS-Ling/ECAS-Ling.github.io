@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "Team"
+    url: /Team/
+
   - title: "Vina"
     url: /Vina/
 
@@ -18,6 +21,8 @@ main:
   - title: "RISC-V"
     url: /RISC-V/
 
+  - title: "Activities"
+    url: /Activities/
 #  - title: "Portfolio"
 #    url: /portfolio/
         
@@ -27,8 +32,7 @@ main:
 #  - title: "CV"
 #    url: /cv/
 
-  - title: "Team"
-    url: /Team/
+
 
 #  - title: "Guide"
 #    url: /markdown/
