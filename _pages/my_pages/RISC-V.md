@@ -4,7 +4,7 @@ title: "RISC-V"
 author_profile: true
 ---
 <center>
-    <img src='/images/my_image/risc-v.png' style="width: auto; height: 100px;">
+    <img src='/images/my_image/risc-v.png' style="width:100%; height:auto; max-height:100px;">
 </center>
 
 RISC-V (pronounced "risk-five") is an open standard instruction set architecture (ISA) based on established reduced instruction set computing (RISC) principles. Unlike proprietary ISAs, the RISC-V ISA is provided under open source licenses that do not require fees to use. This openness allows any organization or individual to design, manufacture, and sell RISC-V chips and software without paying royalties.
@@ -15,7 +15,7 @@ Our research implies RISC-V on multi-core interconnection, processor soft error 
 ---
 We designed the **interconnection structure and programming framework** for multi-core RISC-V architecture in edge computing scenarios, and implemented a complete runnable prototype of a multi-core processor. This architecture is named **PULP-Lite**. This project was sponsored by Nanjing Qinheng Microelectronics.
 <center>
-    <img src="\images\my_image\pulp-lite.png" style="width: auto; height: 300px;">
+    <img src="\images\my_image\pulp-lite.png" style="width:100%; height:auto; max-height:400px;">
 </center>
 
 ---
@@ -26,8 +26,8 @@ Currently, we are collaborating with Sanechips to create a network packet proces
 
 ---
 # Collaborating Companies
-<img src="\images\my_image\wch.png" style="width: auto; height: 100px;">
+<img src="\images\my_image\wch.png" style="width:100%; height:auto; max-height:100px;">
 
-<img src="\images\my_image\sanechips.png" style="width: auto; height: 100px;">
+<img src="\images\my_image\sanechips.png" style="width:100%; height:auto; max-height:100px;">
 
 > *Last edited in 2024.4*

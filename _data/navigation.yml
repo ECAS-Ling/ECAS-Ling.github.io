@@ -1,28 +1,29 @@
-# main links links
+# main links
 main:
   - title: "Publications"
-    url: /full publications/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Team"
-    url: /Team/
+    url: /publications/ 
 
   - title: "Vina"
     url: /Vina/
 
-  - title: "Quantitative-Analysis"
-    url: /Quantitative-Analysis/
+  - title: "QuantAnal"
+    url: /QuantAnal/
 
   - title: "RISC-V"
     url: /RISC-V/
+    
+  - title: "Teaching"
+    url: /teaching/    
 
+  - title: "Team"
+    url: /Team/
+    
   - title: "Activities"
     url: /Activities/
+    
+#  - title: "Talks"
+#    url: /talks/   
+
 #  - title: "Portfolio"
 #    url: /portfolio/
         

@@ -23,10 +23,11 @@ author_profile: true
         justify-content: flex-start; /* 保持其他成员靠左对齐 */
         width: 100%;
         max-width: 1200px;
-        margin: 20px;
+        margin: 40px;
     }
     .row:first-child .member:first-child {
         margin: 0 auto; /* 第一个成员居中对齐 */
+        align-items: center; /* 确保内容（图片和文本）居中 */
     }
     .member {
         display: flex;
@@ -40,6 +41,7 @@ author_profile: true
         width: 200px;
         height: 200px;
         object-fit: cover;
+        margin-bottom: 10px; /* 减小图片与文本之间的间隔 */
     }
     .member-info {
         text-align: center;
@@ -48,11 +50,11 @@ author_profile: true
         .row {
             flex-direction: column;
             align-items: center;
+            margin-bottom: 20px; /* 移动设备上减少间隔 */
         }
         .member {
             width: 80%;
             margin: 20px 0;
-            margin-right: 0; /* 移动视图下去掉右侧间距 */
         }
         .row:first-child .member:first-child {
             margin: 0 auto; /* 确保移动视图下也是居中 */
@@ -64,7 +66,7 @@ author_profile: true
 
 <img src="..\..\images\picture\picture16-9.JPG">
 
-<h2>Principle Investigator</h2>
+<h1>Principle Investigator</h1>
 
 <div class="row.first-child">
     <div class="member.first-child">
@@ -93,13 +95,12 @@ author_profile: true
         <img src="..\..\images\picture\personal\liuqi.bmp" alt="">
         <div class="member-info">
             <h3>Qi Liu<br>刘</h3>
-            <p>EDA</p>
-            <p>？</p>
+            <p>EDA<br>？</p>
         </div>
     </div>
 </div>
 
-<h2>Master Students</h2>
+<h1>Master Students</h1>
 
 <div class="row">
     <div class="member">
@@ -257,8 +258,7 @@ author_profile: true
         <img src="..\..\images\picture\personal\yangzili.jpg" alt="">
         <div class="member-info">
             <h3>Zili Yang<br>杨子立</h3>
-            <p>Processors?</p>
-            <p>2022 Fall</p>
+            <p>Processors?<br>2022 Fall</p>
         </div>
     </div>
 </div>
@@ -315,28 +315,26 @@ author_profile: true
         <img src="..\..\images\picture\personal\ruiyibo.jpg" alt="">
         <div class="member-info">
             <h3>Yibo Rui<br>芮懿博</h3>
-            <p>RISC-V</p>
-            <p>2023 Fall</p>
+            <p>RISC-V<br>2023 Fall</p>
         </div>
     </div>
     <div class="member">
         <img src="..\..\images\picture\personal\wangrui.jpg" alt="">
         <div class="member-info">
             <h3>Rui Wang<br>王锐</h3>
-            <p>RISC-V</p>
-            <p>2023 Fall</p>
+            <p>RISC-V<br>2023 Fall</p>
         </div>
     </div>
 </div>
 
-<h2>Research Assistant</h2>
+<h1>Research Assistant</h1>
+
 <div class="row">
     <div class="member">
         <img src="..\..\images\picture\personal\huangzehua.jpg" alt="">
         <div class="member-info">
             <h3>Zehua Huang<br>黄泽华</h3>
-            <p>RISC-V</p>
-            <p>2023 Fall</p>
+            <p>RISC-V<br>2023 Fall</p>
         </div>
     </div>
 </div>
