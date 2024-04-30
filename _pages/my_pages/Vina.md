@@ -1,5 +1,5 @@
 ---
-permalink: /Vina/
+permalink: /vina/
 title: "Vina"
 author_profile: true
 ---

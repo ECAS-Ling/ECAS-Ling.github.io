@@ -1,6 +1,6 @@
 ---
 permalink: /RISC-V/
-title: "RISC-V"
+title: "risc-v"
 author_profile: true
 ---
 <center>

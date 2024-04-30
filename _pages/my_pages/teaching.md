@@ -18,6 +18,8 @@ author_profile: true
 - Graduates
 - 2010 - 2013
 
+<br>
+
 # Books
 ### Embedded Systems - From SOC chip to System (Second Edition)
 - **Ming Ling**, Xuexiang Wang, Weiwei Shan

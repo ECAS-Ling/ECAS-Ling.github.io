@@ -4,22 +4,22 @@ main:
     url: /publications/ 
 
   - title: "Vina"
-    url: /Vina/
+    url: /vina/
 
   - title: "QuantAnal"
-    url: /QuantAnal/
+    url: /quantAnal/
 
   - title: "RISC-V"
-    url: /RISC-V/
+    url: /risc-v/
     
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Team"
-    url: /Team/
+    url: /team/
     
   - title: "Activities"
-    url: /Activities/
+    url: /activities/
     
 #  - title: "Talks"
 #    url: /talks/   

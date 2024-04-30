@@ -1,6 +1,6 @@
 ---
 permalink: /QuantAnal/
-title: "QuantAnal"
+title: "quantAnal"
 author_profile: true
 ---
 

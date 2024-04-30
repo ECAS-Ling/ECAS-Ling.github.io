@@ -1,6 +1,6 @@
 ---
 permalink: /Team/
-title: "Team"
+title: "team"
 author_profile: true
 ---
 
@@ -57,7 +57,8 @@ author_profile: true
 </head>
 <body>
 
-![research team](../../images/picture/picture16-9.JPG)
+<img src="..\..\images\picture\picture16-9.JPG">
+<br>
 
 <h1>Principle Investigator</h1>
 
