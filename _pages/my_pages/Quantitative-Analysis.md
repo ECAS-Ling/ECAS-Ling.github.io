@@ -24,7 +24,7 @@ This project focus on the development of a **simulation platform for memory subs
 
 # Publications
 ### A Quantitative Analysis and Optimization on the Cache Behavior Influenced by Literal Pools
-- Ming Ling, Hongxi Li, Xiang Yu
+- **Ming Ling**, Hongxi Li, Xiang Yu
 - 2022 IEEE Embedded Systems Letters
 - DOI: [10.1109/LES.2021.3113347](http://dx.doi.org/10.1109/LES.2021.3113347)
 

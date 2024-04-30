@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2024
+### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
+- **Ming Ling**, Zhihao Feng, Ruiqi Chen, Yi Shao, Shidi Tang, Yanxiang Zhu
+- 2024 IEEE Transactions on Biomedical Circuits and Systems (TBCAS)
+- DOI: [10.1109/TBCAS.2024.3388323](https://doi.org/10.1109/TBCAS.2024.3388323)
+
 ------
 # 2023 
 

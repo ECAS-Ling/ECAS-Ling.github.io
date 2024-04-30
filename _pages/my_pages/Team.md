@@ -57,8 +57,7 @@ author_profile: true
 </head>
 <body>
 
-<img src="..\..\images\picture\picture16-9.JPG">
-<br>
+![research team](../../images/picture/picture16-9.JPG)
 
 <h1>Principle Investigator</h1>
 

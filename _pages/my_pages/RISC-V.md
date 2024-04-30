@@ -10,7 +10,7 @@ author_profile: true
 RISC-V (pronounced "risk-five") is an open standard instruction set architecture (ISA) based on established reduced instruction set computing (RISC) principles. Unlike proprietary ISAs, the RISC-V ISA is provided under open source licenses that do not require fees to use. This openness allows any organization or individual to design, manufacture, and sell RISC-V chips and software without paying royalties.
 
 # Research
-Our research implies RISC-V on multi-core interconnection, processor soft error resilience strategy, and general network processor architecture. 
+Our research implies RISC-V on multi-core interconnection, processor soft error resilience strategy, and network packet processor architecture. 
 
 ---
 We designed the **interconnection structure and programming framework** for multi-core RISC-V architecture in edge computing scenarios, and implemented a complete runnable prototype of a multi-core processor. This architecture is named **PULP-Lite**. This project was sponsored by Nanjing Qinheng Microelectronics.
