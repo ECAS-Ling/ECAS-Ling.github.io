@@ -1,6 +1,6 @@
 ---
-permalink: /QuantAnal/
-title: "quantAnal"
+permalink: /quant-anal/
+title: "QuantAnal"
 author_profile: true
 ---
 

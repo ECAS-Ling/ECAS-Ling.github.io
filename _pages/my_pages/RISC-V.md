@@ -1,6 +1,6 @@
 ---
-permalink: /RISC-V/
-title: "risc-v"
+permalink: /risc-v/
+title: "RISC-V"
 author_profile: true
 ---
 <center>

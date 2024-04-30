@@ -7,7 +7,7 @@ main:
     url: /vina/
 
   - title: "QuantAnal"
-    url: /quantAnal/
+    url: /quant-anal/
 
   - title: "RISC-V"
     url: /risc-v/

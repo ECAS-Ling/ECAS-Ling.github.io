@@ -1,6 +1,6 @@
 ---
-permalink: /Team/
-title: "team"
+permalink: /team/
+title: "Team"
 author_profile: true
 ---
 
