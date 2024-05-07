@@ -47,4 +47,4 @@ author_profile: true
 - 2006
 - Publication House of Electronics Industry
 
-
+> Latest edited in 2024.5

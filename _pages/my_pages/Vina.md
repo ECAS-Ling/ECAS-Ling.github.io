@@ -41,6 +41,10 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 <br>
 
 # Publications
+### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
+- **Ming Ling**, Zhihao Feng, Ruiqi Chen, Yi Shao, Shidi Tang, Yanxiang Zhu
+- 2024 IEEE Transactions on Biomedical Circuits and Systems (TBCAS)
+- DOI: [10.1109/TBCAS.2024.3388323](https://doi.org/10.1109/TBCAS.2024.3388323)
 
 ### Effectiveness Analysis of Multiple Initial States Simulated Annealing Algorithm, a Case Study on the Molecular Docking Tool Autodock Vina
 - Xingxing Zhou, **Ming Ling**, Qingde Lin, Shidi Tang, Jiansheng Wu, Haifeng Hu
@@ -62,4 +66,4 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 - 2022 Molecules
 - DOI: [10.3390/molecules27093041](https://doi.org/10.3390/molecules27093041)
 
-> Latest edited in 2024.4
+> Latest edited in 2024.5
