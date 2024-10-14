@@ -58,7 +58,9 @@ author_profile: true
 <body>
 
 <img src="..\..\images\picture\picture16-9.JPG">
-<br>
+    <figcaption>
+        2024.3.11
+    </figcaption>
 <br>
 
 <h1>Principle Investigator</h1>
@@ -66,7 +68,7 @@ author_profile: true
 <center>
     <img src="..\..\images\mingling.png">
         <h3>Ming Ling<br>凌明</h3>
-        <p>Associate Professor</p>
+        <p>Professor</p>
 </center>
 
 <h1>Ph.D. Students</h1>
@@ -78,102 +80,23 @@ author_profile: true
             <h3>Shidi Tang<br>唐诗迪</h3>
             <p>
                 Vina<br>
-                2023 Fall
+                2023 Fall<br>
+                [Personal Front Page](https://glinttsd.github.io/) 
             </p>
         </div>
     </div>
     <div class="member">
         <img src="..\..\images\picture\personal\liuqi.bmp" alt="">
         <div class="member-info">
-            <h3>Qi Liu<br>刘</h3>
-            <p>EDA<br>？</p>
+            <h3>Qi Liu<br>刘琪</h3>
+            <p>EDA<br>2021 Fall</p>
         </div>
     </div>
 </div>
 
 <h1>Master Students</h1>
 
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\zhouxingxing.jpg" alt="">
-        <div class="member-info">
-            <h3>Xingxing Zhou<br>周星星</h3>
-            <p>
-                Vina<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\lixin.jpg" alt="">
-        <div class="member-info">
-            <h3>Xin Li<br>李鑫</h3>
-            <p>
-                Vina<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-</div>
 
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\fengzhihao.jpg" alt="">
-        <div class="member-info">
-            <h3>Zhihao Feng<br>冯郅皓</h3>
-            <p>
-                Vina<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\zhanghuiyi.jpg" alt="">
-        <div class="member-info">
-            <h3>Huiyi Zhang<br>张汇一</h3>
-            <p>
-                Vina<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\pengzhan.jpg" alt="">
-        <div class="member-info">
-            <h3>Zhan Peng<br>彭展</h3>
-            <p>
-                Quantitative Analysis<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\yangzihang.jpg" alt="">
-        <div class="member-info">
-            <h3>Zihang Yang<br>杨子航</h3>
-            <p>
-                Quantitative Analysis<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\wangjingming.jpg" alt="">
-        <div class="member-info">
-            <h3>Jingming Wang<br>王景铭</h3>
-            <p>
-                RISC-V<br>
-                2021 Fall
-            </p>
-        </div>
-    </div>
-</div>
 
 <div class="row">
     <div class="member">
@@ -328,11 +251,101 @@ author_profile: true
             <p>RISC-V<br>2023 Fall</p>
         </div>
     </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\chenruiqi.jpg" alt="">
+        <div class="member-info">
+            <h3>Zehua Huang<br>陈睿祺</h3>
+            <p>Vina<br>[Personal Front Page](https://ruiqichen7.github.io/)</p>
+        </div>
+    </div>
 </div>
 
-> Latest edited in 2024.4
+<h1>Graduated Students (Since 2024)</h1>
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\zhouxingxing.jpg" alt="">
+        <div class="member-info">
+            <h3>Xingxing Zhou<br>周星星</h3>
+            <p>
+                Vina<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\lixin.jpg" alt="">
+        <div class="member-info">
+            <h3>Xin Li<br>李鑫</h3>
+            <p>
+                Vina<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\fengzhihao.jpg" alt="">
+        <div class="member-info">
+            <h3>Zhihao Feng<br>冯郅皓</h3>
+            <p>
+                Vina<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\zhanghuiyi.jpg" alt="">
+        <div class="member-info">
+            <h3>Huiyi Zhang<br>张汇一</h3>
+            <p>
+                Vina<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\pengzhan.jpg" alt="">
+        <div class="member-info">
+            <h3>Zhan Peng<br>彭展</h3>
+            <p>
+                Quantitative Analysis<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\yangzihang.jpg" alt="">
+        <div class="member-info">
+            <h3>Zihang Yang<br>杨子航</h3>
+            <p>
+                Quantitative Analysis<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\wangjingming.jpg" alt="">
+        <div class="member-info">
+            <h3>Jingming Wang<br>王景铭</h3>
+            <p>
+                RISC-V<br>
+                2021 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+> Latest edited in 2024.10
 
 </body>
 </html>
 
-> Latest edited in 2024.5
+> Latest edited in 2024.10
