@@ -5,10 +5,30 @@ author_profile: true
 ---
 
 # 2024
+### Preventing short violations in clock routing with an SVM classifier before powerplanning and placement
+- Qi Liu, **Ming Ling**, Yanxiang Zhu, Yibo Rui, Rui Wang
+- 2024 Microelectronics Journal
+- DOI: [10.1016/j.mejo.2024.106429](https://doi.org/10.1016/j.mejo.2024.106429)
+
+### Modeling Equivariant Neural Networks for Hardware Acceleration, a Case Study on the Molecular Docking Tool DiffDock
+- Shidi Tang, Xingxing Zhou, **Ming Ling**
+- 2024 IEEE Pacific Rim Conference on Communications, Computers and Signal Processing (PACRIM)
+- DOI: [10.1109/PACRIM61180.2024.10690224](https://doi.org/10.1109/PACRIM61180.2024.10690224)
+
+### Ultra8T: A sub-threshold 8t sram with leakage detection
+- Shan Shen, Hao Xu, Yongliang Zhou, **Ming Ling**, Wenjian Yu
+- 2024 Integration
+- DOI: [10.1016/j.vlsi.2024.102233](https://doi.org/10.1016/j.vlsi.2024.102233)
+
 ### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
 - **Ming Ling**, Zhihao Feng, Ruiqi Chen, Yi Shao, Shidi Tang, Yanxiang Zhu
 - 2024 IEEE Transactions on Biomedical Circuits and Systems (TBCAS)
 - DOI: [10.1109/TBCAS.2024.3388323](https://doi.org/10.1109/TBCAS.2024.3388323)
+
+<!-- ### SIHM: Shuffled Iterative Hierarchical Minimixing for Parameter Space Generation Yielding Superior Pareto Points in Logic Synthesis
+- Qi Liu, **Ming Ling**, Yanxiang Zhu
+- 
+- DOI:  -->
 
 ------
 # 2023 
@@ -103,4 +123,4 @@ author_profile: true
 - DOI: [10.23919/DATE48585.2020.9116569](https://doi.org/10.23919/DATE48585.2020.9116569)
 
 > Publications since 2020 are listed   
-> *Latest edited in 2024.4*
+> *Latest edited in 2024.10*

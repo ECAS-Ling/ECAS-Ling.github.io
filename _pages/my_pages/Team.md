@@ -58,9 +58,11 @@ author_profile: true
 <body>
 
 <img src="..\..\images\picture\picture16-9.JPG">
+    <center>
     <figcaption>
         2024.3.11
     </figcaption>
+    </center>
 <br>
 
 <h1>Principle Investigator</h1>
@@ -81,11 +83,21 @@ author_profile: true
             <p>
                 Vina<br>
                 2023 Fall<br>
-                [Personal Front Page](https://glinttsd.github.io/) 
+                <a href="https://glinttsd.github.io">Personal Homepage</a>
             </p>
         </div>
     </div>
     <div class="member">
+        <img src="..\..\images\picture\personal\lishun.jpg" alt="">
+        <div class="member-info">
+            <h3>Shun Li<br>李顺</h3>
+            <p>FPGA Accelerators<br>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+        <div class="member">
         <img src="..\..\images\picture\personal\liuqi.bmp" alt="">
         <div class="member-info">
             <h3>Qi Liu<br>刘琪</h3>
@@ -93,6 +105,7 @@ author_profile: true
         </div>
     </div>
 </div>
+
 
 <h1>Master Students</h1>
 
@@ -172,7 +185,7 @@ author_profile: true
         <img src="..\..\images\picture\personal\yangzili.jpg" alt="">
         <div class="member-info">
             <h3>Zili Yang<br>杨子立</h3>
-            <p>Processors?<br>2022 Fall</p>
+            <p>Memory System<br>2022 Fall</p>
         </div>
     </div>
 </div>
@@ -254,8 +267,11 @@ author_profile: true
     <div class="member">
         <img src="..\..\images\picture\personal\chenruiqi.jpg" alt="">
         <div class="member-info">
-            <h3>Zehua Huang<br>陈睿祺</h3>
-            <p>Vina<br>[Personal Front Page](https://ruiqichen7.github.io/)</p>
+                <h3>Ruiqi Chen<br>陈睿祺</h3>
+                <p>
+                    Vina<br>
+                    <a href="https://ruiqichen7.github.io">Personal Homepage</a>
+                </p>
         </div>
     </div>
 </div>
