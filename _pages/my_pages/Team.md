@@ -73,6 +73,13 @@ author_profile: true
         <p>Professor</p>
 </center>
 
+
+
+
+
+
+
+
 <h1>Ph.D. Students</h1>
 
 <div class="row">
@@ -105,6 +112,13 @@ author_profile: true
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
 
 
 <h1>Master Students</h1>
@@ -254,6 +268,58 @@ author_profile: true
     </div>
 </div>
 
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\chenjiakun.jpg" alt="">
+        <div class="member-info">
+            <h3>Yuanming Fu<br>符渊明</h3>
+            <p>RISC-V<br>2024 Fall</p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\chenjiakun.jpg" alt="">
+        <div class="member-info">
+            <h3>Jiakun Chen<br>陈家坤</h3>
+            <p>RISC-V<br>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\linziqi.jpg" alt="">
+        <div class="member-info">
+            <h3>Ziqi Lin<br>林子祺</h3>
+            <p>Quantitative Analysis<br>2024 Fall</p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\liyuanhang.jpg" alt="">
+        <div class="member-info">
+            <h3>Yuanhang Li<br>李远航</h3>
+            <p>Quantitative Analysis<br>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\tianankun.jpg" alt="">
+        <div class="member-info">
+            <h3>Ankun Tian<br>田安堃</h3>
+            <p>Vina<br>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
 <h1>Research Assistant</h1>
 
 <div class="row">
@@ -275,6 +341,13 @@ author_profile: true
         </div>
     </div>
 </div>
+
+
+
+
+
+
+
 
 <h1>Graduated Students (Since 2024)</h1>
 <div class="row">
