@@ -270,7 +270,7 @@ author_profile: true
 
 <div class="row">
     <div class="member">
-        <img src="..\..\images\picture\personal\chenjiakun.jpg" alt="">
+        <img src="..\..\images\picture\personal\fuyuanming.jpg" alt="">
         <div class="member-info">
             <h3>Yuanming Fu<br>符渊明</h3>
             <p>RISC-V<br>2024 Fall</p>
