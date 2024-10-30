@@ -336,6 +336,7 @@ author_profile: true
                 <h3>Ruiqi Chen<br>陈睿祺</h3>
                 <p>
                     Vina<br>
+                    2023-2024<br>
                     <a href="https://ruiqichen7.github.io">Personal Homepage</a>
                 </p>
         </div>
