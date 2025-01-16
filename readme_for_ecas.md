@@ -19,6 +19,6 @@ title: "RISC-V"
 author_profile: true
 ---
 ```
-所有页面中需要用到的图片都放在_image目录下，写md或者html时引用它的相对地址。
+所有页面中需要用到的图片都放在image目录下，写md或者html时引用它的相对地址。
 
 *Latest edited: 2024.4*
