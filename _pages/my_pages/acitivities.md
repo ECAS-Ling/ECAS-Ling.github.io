@@ -7,6 +7,14 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/2024-end-dinner.png">
+    <figcaption>
+        2024 end-of-year dinner
+        <br>
+        2025.1.14
+    </figcaption>
+<br>
+
 <img src="../../images/picture/2024-date-lishun.jpg">
     <figcaption>
         Experience sharing of DATE(2024) academic conference
