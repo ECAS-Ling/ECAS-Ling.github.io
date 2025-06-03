@@ -123,88 +123,6 @@ author_profile: true
 
 <h1>Master Students</h1>
 
-
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\liurui.jpg" alt="">
-        <div class="member-info">
-            <h3>Rui Liu<br>刘睿</h3>
-            <p>
-                Vina<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\lvyuxuan.jpg" alt="">
-        <div class="member-info">
-            <h3>Yuxuan Lyu<br>吕宇轩</h3>
-            <p>
-                Vina<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\luwenjie.jpg" alt="">
-        <div class="member-info">
-            <h3>Wenjie Lu<br>陆文杰</h3>
-            <p>
-                Quantitative Analysis<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\hanshuo.jpg" alt="">
-        <div class="member-info">
-            <h3>Shuo Han<br>韩硕</h3>
-            <p>
-                Quantitative Analysis<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\zhaokang.jpg" alt="">
-        <div class="member-info">
-            <h3>Kang Zhao<br>赵康</h3>
-            <p>
-                Quantitative Analysis<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\lianyuyu.jpg" alt="">
-        <div class="member-info">
-            <h3>Yuyu Lian<br>连宇煜</h3>
-            <p>
-                RISC-V<br>
-                2022 Fall
-            </p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="member">
-        <img src="..\..\images\picture\personal\yangzili.jpg" alt="">
-        <div class="member-info">
-            <h3>Zili Yang<br>杨子立</h3>
-            <p>Memory System<br>2022 Fall</p>
-        </div>
-    </div>
-</div>
-
-
 <div class="row">
     <div class="member">
         <img src="..\..\images\picture\personal\zhangchuanzhao.jpg" alt="">
@@ -327,7 +245,7 @@ author_profile: true
         <img src="..\..\images\picture\personal\huangzehua.jpg" alt="">
         <div class="member-info">
             <h3>Zehua Huang<br>黄泽华</h3>
-            <p>RISC-V<br>2023 Fall</p>
+            <p>RISC-V<br>2023-2024</p>
         </div>
     </div>
     <div class="member">
@@ -336,21 +254,97 @@ author_profile: true
                 <h3>Ruiqi Chen<br>陈睿祺</h3>
                 <p>
                     Vina<br>
-                    2023-2024<br>
+                    2023-present<br>
                     <a href="https://ruiqichen7.github.io">Personal Homepage</a>
                 </p>
         </div>
     </div>
 </div>
 
-
-
-
-
-
-
-
 <h1>Graduated Students (Since 2024)</h1>
+
+
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\liurui.jpg" alt="">
+        <div class="member-info">
+            <h3>Rui Liu<br>刘睿</h3>
+            <p>
+                Vina<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\lvyuxuan.jpg" alt="">
+        <div class="member-info">
+            <h3>Yuxuan Lyu<br>吕宇轩</h3>
+            <p>
+                Vina<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\luwenjie.jpg" alt="">
+        <div class="member-info">
+            <h3>Wenjie Lu<br>陆文杰</h3>
+            <p>
+                Quantitative Analysis<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\hanshuo.jpg" alt="">
+        <div class="member-info">
+            <h3>Shuo Han<br>韩硕</h3>
+            <p>
+                Quantitative Analysis<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\zhaokang.jpg" alt="">
+        <div class="member-info">
+            <h3>Kang Zhao<br>赵康</h3>
+            <p>
+                Quantitative Analysis<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\lianyuyu.jpg" alt="">
+        <div class="member-info">
+            <h3>Yuyu Lian<br>连宇煜</h3>
+            <p>
+                RISC-V<br>
+                2022 Fall
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\yangzili.jpg" alt="">
+        <div class="member-info">
+            <h3>Zili Yang<br>杨子立</h3>
+            <p>Memory System<br>2022 Fall</p>
+        </div>
+    </div>
+</div>
+
+
 <div class="row">
     <div class="member">
         <img src="..\..\images\picture\personal\zhouxingxing.jpg" alt="">

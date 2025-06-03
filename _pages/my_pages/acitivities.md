@@ -7,6 +7,14 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/2025-farewell-dinner.png">
+    <figcaption>
+        2025 farewell dinner for 2025 graduated master's students
+        <br>
+        2025.5.28
+    </figcaption>
+<br>
+
 <img src="../../images/picture/2024-end-dinner.png">
     <figcaption>
         2024 end-of-year dinner
