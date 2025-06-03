@@ -12,7 +12,7 @@ Here are some talks related to our research group.
 ### 2024
 - **Shun Li** presented ["Sparse Matrix Accelerator Design"](https://www.bilibili.com/video/BV1mwq6YsEnW/?spm_id_from=333.1387.upload.video_card.click&vd_source=10df3a3f8bc63f236c895486f072d395) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
 
-- **Huiyi Zhang, Xing Li, Xingxing Zhou, Zhihao Feng** shared thier job hunting experience at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
+- **Huiyi Zhang, Xing Li, Xingxing Zhou, Zhihao Feng** shared thier [job hunting experience](https://www.bilibili.com/video/BV1d1421C73f/?spm_id_from=333.1387.upload.video_card.click&vd_source=10df3a3f8bc63f236c895486f072d395) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
 
 ### 2023
 - **Shidi Tang** talked about ["Vina-GPU: Accelerating AutoDock-Vina with GPUs"](https://www.bilibili.com/video/BV1bD4y1V79d/?spm_id_from=333.1387.upload.video_card.click&vd_source=10df3a3f8bc63f236c895486f072d395) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
