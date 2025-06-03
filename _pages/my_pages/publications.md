@@ -151,4 +151,4 @@ author_profile: true
 - DOI: [10.23919/DATE48585.2020.9116569](https://doi.org/10.23919/DATE48585.2020.9116569)
 
 > Publications since 2020 are listed   
-> *Last edited in 2024.10*
+> *Last edited in 2025.06*
