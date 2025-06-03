@@ -7,7 +7,7 @@ author_profile: true
 <center>
 <br>
 
-<img src="../../images/picture/2025-farewell-dinner.png">
+<img src="../../images/picture/2025-farewell-dinner.jpg">
     <figcaption>
         2025 farewell dinner for 2025 graduated master's students
         <br>
