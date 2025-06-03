@@ -3,6 +3,34 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2025
+### ATE-GCN: An FPGA-Based Graph Convolutional Network Accelerator with Asymmetrical Ternary Quantization
+- Ruiqi Chen, Jiayu Liu, Shidi Tang, Yang Liu, Yanxiang Zhu, **Ming Ling**, Bruno Da Silva
+- 2025 Design, Automation & Test in Europe Conference (DATE)
+- DOI: [10.23919/DATE64628.2025.10993065](https://ieeexplore.ieee.org/abstract/document/10993065)
+
+### FPGA-based Approximate Multiplier for FP8
+- Ruiqi Chen, Yangxintong Lyu, Han Bao, Jiayu Liu, Yanxiang Zhu, Shidi Tang, **Ming Ling**, Bruno Da Silva
+- 2025 IEEE 33rd Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)
+- DOI: [10.1109/FCCM62733.2025.00079](https://ieeexplore.ieee.org/abstract/document/11008970)
+
+### Diff-Acc: An Efficient FPGA Accelerator for Unconditional Diffusion Models
+-  Shidi Tang, Ruiqi Chen, Rui Liu, Yuxuan Lv, Pengwei Zheng, He Li, **Ming Ling**
+- ACM Transactions on Embedded Computing Systems
+- DOI: [https://doi.org/10.1145/37284](https://dl.acm.org/doi/abs/10.1145/3728470)
+
+### DiffDock-FPGA: A Hardware Accelerator for Molecular Docking with Customized Tensor Product Framework and Sparse-Aware Access Strategy
+- Chuanzhao Zhang, Rui Liu, Shidi Tang, Shun Li, **Ming Ling**
+- The 35th edition of Great Lakes Symposium on VLSI (GLVLSI)
+
+### D-GCN: A Dynamic Pruning Accelerator for Deep Graph Convolutional Networks with Hybrid Dataflow
+- Shun Li, Hao Zhou, Enhao Tang, Yang Liu, Shidi Tang, **Ming Ling**
+- The 35th edition of Great Lakes Symposium on VLSI (GLVLSI)
+
+### EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening
+- **Ming Ling**, Chuanzhao Zhang, Shidi Tang, Ruiqi Chen, Yanxiang Zhu
+- IEEE Transactions on Sustainable Computing
+- DOI: [10.1109/TSUSC.2025.3541958](https://ieeexplore.ieee.org/abstract/document/10884806)
 
 # 2024
 ### Preventing short violations in clock routing with an SVM classifier before powerplanning and placement
