@@ -4,6 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+### D-GCN: A Dynamic Pruning Accelerator for Deep Graph Convolutional Networks with Hybrid Dataflow
+- Shun Li, Hao Zhou, Enhao Tang, Yang Liu, Shidi Tang, **Ming Ling**
+- Proceedings of the Great Lakes Symposium on VLSI 2025 (GLSVLSI)
+- DOI: [10.1145/3716368.3735211](https://dl.acm.org/doi/full/10.1145/3716368.3735211)
+
+### DiffDock-FPGA: A Hardware Accelerator for Molecular Docking with Customized Tensor Product Framework and Sparse-Aware Access Strategy
+- Chuanzhao Zhang, Rui Liu, Shidi Tang, Shun Li, **Ming Ling**
+- Proceedings of the Great Lakes Symposium on VLSI 2025 (GLSVLSI)
+- DOI: [10.1145/3716368.3735212](https://dl.acm.org/doi/full/10.1145/3716368.3735212)
+
 ### ATE-GCN: An FPGA-Based Graph Convolutional Network Accelerator with Asymmetrical Ternary Quantization
 - Ruiqi Chen, Jiayu Liu, Shidi Tang, Yang Liu, Yanxiang Zhu, **Ming Ling**, Bruno Da Silva
 - 2025 Design, Automation & Test in Europe Conference (DATE)
@@ -18,14 +28,6 @@ author_profile: true
 -  Shidi Tang, Ruiqi Chen, Rui Liu, Yuxuan Lv, Pengwei Zheng, He Li, **Ming Ling**
 - ACM Transactions on Embedded Computing Systems
 - DOI: [https://doi.org/10.1145/37284](https://dl.acm.org/doi/abs/10.1145/3728470)
-
-### DiffDock-FPGA: A Hardware Accelerator for Molecular Docking with Customized Tensor Product Framework and Sparse-Aware Access Strategy
-- Chuanzhao Zhang, Rui Liu, Shidi Tang, Shun Li, **Ming Ling**
-- The 35th edition of Great Lakes Symposium on VLSI (GLVLSI)
-
-### D-GCN: A Dynamic Pruning Accelerator for Deep Graph Convolutional Networks with Hybrid Dataflow
-- Shun Li, Hao Zhou, Enhao Tang, Yang Liu, Shidi Tang, **Ming Ling**
-- The 35th edition of Great Lakes Symposium on VLSI (GLVLSI)
 
 ### EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening
 - **Ming Ling**, Chuanzhao Zhang, Shidi Tang, Ruiqi Chen, Yanxiang Zhu
