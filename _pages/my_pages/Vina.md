@@ -41,6 +41,17 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 <br>
 
 # Publications
+
+### DiffDock-FPGA: A Hardware Accelerator for Molecular Docking with Customized Tensor Product Framework and Sparse-Aware Access Strategy
+- Chuanzhao Zhang, Rui Liu, Shidi Tang, Shun Li, **Ming Ling**
+- Proceedings of the Great Lakes Symposium on VLSI 2025 (GLSVLSI)
+- DOI: [10.1145/3716368.3735212](https://dl.acm.org/doi/full/10.1145/3716368.3735212)
+
+### EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening
+- **Ming Ling**, Chuanzhao Zhang, Shidi Tang, Ruiqi Chen, Yanxiang Zhu
+- IEEE Transactions on Sustainable Computing
+- DOI: [10.1109/TSUSC.2025.3541958](https://ieeexplore.ieee.org/abstract/document/10884806)
+
 ### Vina-FPGA-Cluster: Multi-FPGA Based Molecular Docking Tool with High-Accuracy and Multi-Level Parallelism
 - **Ming Ling**, Zhihao Feng, Ruiqi Chen, Yi Shao, Shidi Tang, Yanxiang Zhu
 - 2024 IEEE Transactions on Biomedical Circuits and Systems (TBCAS)
