@@ -7,6 +7,30 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/GLSVLSI25_2.jpg">
+    <figcaption>
+        Shidi Tang (on behave of Chuanzhao Zhang) presented our paper in GLSVLSI'25
+        <br>
+        2025.7.1
+    </figcaption>
+<br>
+
+<img src="../../images/picture/GLSVLSI25_1.jpg">
+    <figcaption>
+        Shidi Tang (on behave of Shun Li) presented our paper in GLSVLSI'25
+        <br>
+        2025.7.1
+    </figcaption>
+<br>
+
+<img src="../../images/picture/2025-farewell-dinner.jpg">
+    <figcaption>
+        2025 farewell dinner for 2025 graduated master's students
+        <br>
+        2025.5.28
+    </figcaption>
+<br>
+
 <img src="../../images/picture/2025-farewell-dinner.jpg">
     <figcaption>
         2025 farewell dinner for 2025 graduated master's students
