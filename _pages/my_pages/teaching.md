@@ -26,6 +26,7 @@ author_profile: true
 - **Ming Ling**, Zhipeng Zhang, Yong Yang
 - 2025
 - China Machine Press
+
     <img src='../../images/my_image/RISC-V.jpg' style="width:auto; max-height:200px;">
 <br>
 
