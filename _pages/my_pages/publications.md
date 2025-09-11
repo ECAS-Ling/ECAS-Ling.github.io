@@ -5,17 +5,17 @@ author_profile: true
 ---
 # 2025
 ### Camulator: A Lightweight and Extensible Trace-Driven Cache Simulator for Embedded Multicore SoCs
-- Yuhan Liu, Zihang Yang, Fei Tong, Liang Cheng and Ming Ling
+- Yuhan Liu, Zihang Yang, Fei Tong, Liang Cheng and **Ming Ling**
 - IEEE Computer Architecture Letters
 - DOI: [10.1109/LCA.2025.3592946](https://ieeexplore.ieee.org/abstract/document/11097065)
 
 ### A Sampling-Based Warm-Up Distance Allocation Method Based on Reuse Distance Vectors
-- Yong Yang, Wenhua Gu, Ming Ling
+- Yong Yang, Wenhua Gu, **Ming Ling**
 - 2025 IEEE International Conference on Pattern Recognition, Machine Vision and Artificial Intelligence (PRMVAI)
 - DOI: [10.1109/PRMVAI65741.2025.11108590](https://ieeexplore.ieee.org/abstract/document/11108590)
 
 ### ChaTCL: LLM-Based Multi-Agent RAG Framework for TCL Script Generation
-- Yibo Rui, Yuanhang Li, Rui Wang, Ruiqi Chen, Yanxiang Zhu, Zhixiong Di, Xi Wang, Ming Ling
+- Yibo Rui, Yuanhang Li, Rui Wang, Ruiqi Chen, Yanxiang Zhu, Zhixiong Di, Xi Wang, **Ming Ling**
 - 2025 International Symposium of Electronics Design Automation (ISEDA)
 - DOI: [10.1109/ISEDA65950.2025.11101624](https://ieeexplore.ieee.org/abstract/document/11101624)
 

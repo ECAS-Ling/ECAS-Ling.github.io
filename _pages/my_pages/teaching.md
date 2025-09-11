@@ -21,6 +21,15 @@ author_profile: true
 <br>
 
 # Books
+
+### RISC-V Embedded System Design
+- **Ming Ling**, Zhipeng Zhang, Yong Yang
+- 2025
+- China Machine Press
+    <img src='../../images/my_image/RISC-V.jpg' style="width:auto; max-height:200px;">
+<br>
+
+
 ### Embedded Systems - From SOC chip to System (Second Edition)
 - **Ming Ling**, Xuexiang Wang, Weiwei Shan
 - 2017
@@ -41,6 +50,9 @@ author_profile: true
 - Rui Zhong, **Ming Ling**, Zhijian Chen
 - 2020
 - Southeast University Press
+
+    <img src='../../images/my_image/xuantie.jpg' style="width:auto; max-height:200px;">
+<br>
 
 ### Embedded Systems - Applications Development with SEP3203 Micro Processor
 - Longxing Shi, **Ming ling**, Xuexiang Wang
