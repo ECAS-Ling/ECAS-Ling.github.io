@@ -7,7 +7,7 @@ author_profile: true
 Here are some talks related to our research group.
 
 ### 2025
-- **Yuxuan Lv, Rui Liu, Yuyu Lian, Zihang Yang** shared thier [job hunting experience](https://www.bilibili.com/video/BV1Te3LzvEYm/?t=6.3&vd_source=10df3a3f8bc63f236c895486f072d395) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
+- **Yuxuan Lv, Rui Liu, Yuyu Lian, Zili Yang** shared thier [job hunting experience](https://www.bilibili.com/video/BV1Te3LzvEYm/?t=6.3&vd_source=10df3a3f8bc63f236c895486f072d395) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
 
 
 - **Chuanzhao Zhang** presented ["EEVS: Redeploying Discarded Smartphones for Economic and Ecological Drug Molecules Virtual Screening"](https://www.bilibili.com/video/BV1arXXYgEFo/?spm_id_from=333.1387.homepage.video_card.click) at [Verimake](https://space.bilibili.com/356383684?spm_id_from=333.337.0.0).
