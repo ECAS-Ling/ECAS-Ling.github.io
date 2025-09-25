@@ -86,7 +86,7 @@ author_profile: true
     <div class="member">
         <img src="..\..\images\picture\personal\jixiang.jpg" alt="">
         <div class="member-info">
-            <h3>Shidi Tang<br>姬翔</h3>
+            <h3>Xiang Ji<br>姬翔</h3>
             <p>
                 Quantitative Analysis<br>
                 2025 Fall<br>
@@ -244,7 +244,7 @@ author_profile: true
     <div class="member">
         <img src="..\..\images\picture\personal\jiajun.jpg" alt="">
         <div class="member-info">
-            <h3>Ankun Tian<br>龚家骏</h3>
+            <h3>Jiajun Gong<br>龚家骏</h3>
             <p>RISC-V<br>2025 Fall</p>
         </div>
     </div>
@@ -254,7 +254,7 @@ author_profile: true
     <div class="member">
         <img src="..\..\images\picture\personal\zhicheng.jpg" alt="">
         <div class="member-info">
-            <h3>Ankun Tian<br>张志成</h3>
+            <h3>Zhicheng Zhang<br>张志成</h3>
             <p>Vina<br>2025 Fall</p>
         </div>
     </div>
