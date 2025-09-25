@@ -238,9 +238,6 @@ author_profile: true
             <p>Vina<br>2024 Fall</p>
         </div>
     </div>
-</div>
-
-<div class="row">
     <div class="member">
         <img src="..\..\images\picture\personal\jiajun.jpg" alt="">
         <div class="member-info">
