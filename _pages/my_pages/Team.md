@@ -84,6 +84,26 @@ author_profile: true
 
 <div class="row">
     <div class="member">
+        <img src="..\..\images\picture\personal\jixiang.jpg" alt="">
+        <div class="member-info">
+            <h3>Shidi Tang<br>姬翔</h3>
+            <p>
+                Quantitative Analysis<br>
+                2025 Fall<br>
+            </p>
+        </div>
+    </div>
+    <div class="member">
+        <img src="..\..\images\picture\personal\lishun.jpg" alt="">
+        <div class="member-info">
+            <h3>Shun Li<br>李顺</h3>
+            <p>RISC-V<br>2024 Fall</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="member">
         <img src="..\..\images\picture\personal\tangshidi.jpg" alt="">
         <div class="member-info">
             <h3>Shidi Tang<br>唐诗迪</h3>
@@ -94,16 +114,6 @@ author_profile: true
             </p>
         </div>
     </div>
-    <div class="member">
-        <img src="..\..\images\picture\personal\lishun.jpg" alt="">
-        <div class="member-info">
-            <h3>Shun Li<br>李顺</h3>
-            <p>FPGA Accelerators<br>2024 Fall</p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
         <div class="member">
         <img src="..\..\images\picture\personal\liuqi.bmp" alt="">
         <div class="member-info">
@@ -230,7 +240,25 @@ author_profile: true
     </div>
 </div>
 
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\jiajun.jpg" alt="">
+        <div class="member-info">
+            <h3>Ankun Tian<br>龚家骏</h3>
+            <p>RISC-V<br>2025 Fall</p>
+        </div>
+    </div>
+</div>
 
+<div class="row">
+    <div class="member">
+        <img src="..\..\images\picture\personal\zhicheng.jpg" alt="">
+        <div class="member-info">
+            <h3>Ankun Tian<br>张志成</h3>
+            <p>Vina<br>2025 Fall</p>
+        </div>
+    </div>
+</div>
 
 
 
