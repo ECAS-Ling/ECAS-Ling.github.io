@@ -27,11 +27,11 @@ Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in
 
 🔥News
 ======
-- *2025.11*: &nbsp;🎉🎉 Two papers are accepted in [DATE'26](https://www.date-conference.com/)!
-- *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in ICCAD'25!
-- *2025.07*: &nbsp;🎉🎉 One paper accepted in ICCAD'25!
+- *2025.11*: &nbsp;🎉🎉 Two papers are accepted in [*DATE'26*](https://www.date-conference.com/)!
+- *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in *ICCAD'25*!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted in [*ICCAD'25*](https://2025.iccad.com/)!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted in [*ACM Transactions on Embedded Computing Systems*]((https://dl.acm.org/doi/abs/10.1145/3728470))!
-- *2025.05*: &nbsp;🎉🎉 Two papers accepted in *GLVLSI'25*!
+- *2025.05*: &nbsp;🎉🎉 Two papers accepted in [*GLVLSI'25*](https://www.glsvlsi.org/)!
 
 <!-- Selected Publications
 ====== -->
