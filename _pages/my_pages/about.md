@@ -19,16 +19,24 @@ redirect_from:
 [Quantitative Analysis](https://ecas-ling.github.io/Quant/)  
 [RISC-V](https://ecas-ling.github.io/RISC-V/)
 
-Personal Introduction
+👨‍🏫 Personal Introduction
 ======
 Ming Ling (Member, IEEE) is a Professor and Phd Advisor of **The National ASIC System Engineering Technology Research Center**, Southeast University, and he is also the Director of Electrical and Electronic Experiment Center. His current research interests include *memory subsystem of system-on-chip (SoC), processor architecture, and domain-specific architecture*.  
 
 Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in 1994, 2001 and 2011 respectively. His advisor is Longxing Shi. From 2013 to 2014, he was a visiting scholar at School of Computer Science, University of Victoria, Canada.
 
+🔥News
+======
+- *2025.11*: &nbsp;🎉🎉 Two papers are accepted in [DATE'26](https://www.date-conference.com/)!
+- *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the <span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span> in ICCAD'25!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted in ICCAD'25!
+- *2025.05*: &nbsp;🎉🎉 One paper accepted in [*ACM Transactions on Embedded Computing Systems*]((https://dl.acm.org/doi/abs/10.1145/3728470))!
+- *2025.05*: &nbsp;🎉🎉 Two papers accepted in *GLVLSI'25*!
+
 <!-- Selected Publications
 ====== -->
 
-Research Team
+👨‍👩‍👧‍👦 Research Team
 ===
 ![research team](../../images/picture/picture16-9.JPG)
 
