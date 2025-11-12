@@ -27,7 +27,7 @@ Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in
 
 🔥News
 ======
-- *2025.11*: &nbsp;🎉🎉 Two papers are accepted in [*DATE'26*](https://www.date-conference.com/)!
+- *2025.11*: &nbsp;🎉🎉 Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA is accepted in [*DATE'26*](https://www.date-conference.com/)!
 - *2025.11*: &nbsp;🎉🎉 Our team won the Gold Award at [The 2nd Global Digital Intelligience Education Innovation Competition](https://www.bohrium.com/competitions/2625276900?tab=introduce)!
 - *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the [<span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span>](https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iccad25/uploads/ICCAD_2025_Program_v20.pdf)  in *ICCAD'25*!
 - *2025.07*: &nbsp;🎉🎉 One paper accepted in [*ICCAD'25*](https://2025.iccad.com/)!
