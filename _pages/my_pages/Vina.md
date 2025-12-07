@@ -42,6 +42,11 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 
 # Publications
 
+### Vina-FPGA2: a high-level parallelized hardware-accelerated molecular docking tool based on the inter-module pipeline
+- **Ming Ling**, Shidi Tang, Ruiqi Chen, Xin Li, Yanxiang Zhu
+- Frontiers of Information Technology & Electronic Engineering
+- DOI: [10.1631/FITEE.2400941](https://link.springer.com/article/10.1631/FITEE.2400941)
+
 ### DiffDock-FPGA: A Hardware Accelerator for Molecular Docking with Customized Tensor Product Framework and Sparse-Aware Access Strategy
 - Chuanzhao Zhang, Rui Liu, Shidi Tang, Shun Li, **Ming Ling**
 - Proceedings of the Great Lakes Symposium on VLSI 2025 (GLSVLSI)
@@ -77,4 +82,4 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 - 2022 Molecules
 - DOI: [10.3390/molecules27093041](https://doi.org/10.3390/molecules27093041)
 
-> Latest edited in 2024.5
+> Latest edited in 2025.12

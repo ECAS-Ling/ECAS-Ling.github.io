@@ -4,6 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+
+### Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA
+- Shidi Tang, Pengwei Zheng, Ruiqi Chen, Yuxuan Lv, Bruno da Silva, **Ming Ling**
+- The 2025 International Conference on Computer-Aided Design (ICCAD'25)
+- DOI: [10.1109/ICCAD66269.2025.11240791](https://ieeexplore.ieee.org/abstract/document/11240791)
+
+### Vina-FPGA2: a high-level parallelized hardware-accelerated molecular docking tool based on the inter-module pipeline
+- **Ming Ling**, Shidi Tang, Ruiqi Chen, Xin Li, Yanxiang Zhu
+- Frontiers of Information Technology & Electronic Engineering
+- DOI: [10.1631/FITEE.2400941](https://link.springer.com/article/10.1631/FITEE.2400941)
+
 ### Camulator: A Lightweight and Extensible Trace-Driven Cache Simulator for Embedded Multicore SoCs
 - Yuhan Liu, Zihang Yang, Fei Tong, Liang Cheng and **Ming Ling**
 - IEEE Computer Architecture Letters
@@ -168,4 +179,4 @@ author_profile: true
 - DOI: [10.23919/DATE48585.2020.9116569](https://doi.org/10.23919/DATE48585.2020.9116569)
 
 > Publications since 2020 are listed   
-> *Last edited in 2025.06*
+> *Last edited in 2025.12*
