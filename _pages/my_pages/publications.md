@@ -3,6 +3,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2026
+
+### BenDan: Benchmarking DPU performance on FPGAs
+- Han Bao, Xingyu Liu, Xiaoke Wang, Ahmed Sadaqa, Yanxiang Zhu, Shidi Tang, Ruiqi Chen, **Ming Ling**, Bruno da Silva
+- Integration
+- DOI: [10.1016/j.vlsi.2026.102695](https://www.sciencedirect.com/science/article/pii/S0167926026000507)
+
+### FP8ApproxLib: An FPGA-based approximate multiplier library for 8-bit floating point
+- Ruiqi Chen, Yangxintong Lyu, Han Bao, Shidi Tang, Jindong Li, Yanxiang Zhu, **Ming Ling**, Bruno da Silva
+- Journal of Systems Architecture
+- DOI: [10.1016/j.sysarc.2026.103686](https://www.sciencedirect.com/science/article/pii/S1383762126000044)
+
+
+### Hessian-driven N: M sparsity and quantization co-optimization for edge device deployment
+- Minghao Tang, **Ming Ling**, Minhua Ren, Zhihua Cai, Zhen Liu, Shidi Tang, Jianjun Li
+- Integration
+- DOI: [10.1016/j.vlsi.2025.102629](https://www.sciencedirect.com/science/article/pii/S016792602500286X)
+
 # 2025
 
 ### Diff-DiT: Temporal Differential Accelerator for Low-bit Diffusion Transformers on FPGA

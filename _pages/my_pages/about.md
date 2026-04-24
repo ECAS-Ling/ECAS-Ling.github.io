@@ -27,13 +27,10 @@ Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in
 
 🔥News
 ======
-- *2025.11*: &nbsp;🎉🎉 Two papaers are accepted in [*DATE'26*](https://www.date-conference.com/)!
-- *2025.11*: &nbsp;🎉🎉 Our team won the Gold Award at [The 2nd Global Digital Intelligience Education Innovation Competition](https://www.bohrium.com/competitions/2625276900?tab=introduce)!
-- *2025.09*: &nbsp;🎉🎉 **Diff-DiT** has been selected as the [<span style="color: red; font-weight: bold;"> Best Paper Award Candidate </span>](https://confcats-event-sessions.s3.us-east-1.amazonaws.com/iccad25/uploads/ICCAD_2025_Program_v20.pdf)  in *ICCAD'25*!
-- *2025.07*: &nbsp;🎉🎉 One paper accepted in [*ICCAD'25*](https://2025.iccad.com/)!
-- *2025.05*: &nbsp;🎉🎉 One paper accepted in [*ACM Transactions on Embedded Computing Systems*]((https://dl.acm.org/doi/abs/10.1145/3728470))!
-- *2025.05*: &nbsp;🎉🎉 Two papers accepted in [*GLVLSI'25*](https://www.glsvlsi.org/)!
-
+- *2026.3*: &nbsp;🎉🎉 [*BenDan: Benchmarking DPU performance on FPGAs*](https://www.sciencedirect.com/science/article/pii/S0167926026000507) is accepeted in Integration!
+- *2026.3*: &nbsp;🎉🎉 Two papaers are accepted in [*ISEDA'26*](https://www.eda2.com/iseda/index.html)!
+- *2026.1*: &nbsp;🎉🎉 [*FP8ApproxLib: An FPGA-based approximate multiplier library for 8-bit floating point*](https://www.sciencedirect.com/science/article/pii/S1383762126000044) is accepeted in Journal of Systems Architecture!
+- *2025.12*: &nbsp;🎉🎉 [*Hessian-driven N:M sparsity and quantization co-optimization for edge device deployment*](https://www.sciencedirect.com/science/article/pii/S016792602500286X) is accepeted in Integration!
 <!-- Selected Publications
 ====== -->
 

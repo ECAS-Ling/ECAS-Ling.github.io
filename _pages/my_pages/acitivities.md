@@ -7,6 +7,14 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/DATE_main_gate.jpg">
+    <figcaption>
+        Prof. Ling, Shidi Tang, and Ankun Tian attending the DATE'26 conference at Verona, Italy.
+        <br>
+        2026.4.20
+    </figcaption>
+<br>
+
 <img src="../../images/picture/GLSVLSI25_2.jpg">
     <figcaption>
         Shidi Tang (on behave of Chuanzhao Zhang) presented our paper in GLSVLSI'25
