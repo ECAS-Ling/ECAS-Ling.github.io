@@ -42,6 +42,11 @@ Virtual screening plays an indispensable role in the early stages of drug discov
 
 # Publications
 
+### Breaking the BRAM Wall: Scalable Vina FPGA Acceleration via Distributed Grid Storage and Cross-Board Long-ring Pipelines
+- Ankun Tian, Shidi Tang, Ruiqi Chen and **Ming Ling**
+- 2026 Design, Automation & Test in Europe Conference (DATE)
+- DOI: coming soon
+
 ### Vina-FPGA2: a high-level parallelized hardware-accelerated molecular docking tool based on the inter-module pipeline
 - **Ming Ling**, Shidi Tang, Ruiqi Chen, Xin Li, Yanxiang Zhu
 - Frontiers of Information Technology & Electronic Engineering
