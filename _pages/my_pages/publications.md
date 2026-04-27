@@ -5,6 +5,21 @@ author_profile: true
 ---
 # 2026
 
+### Breaking the BRAM Wall: Scalable Vina FPGA Acceleration via Distributed Grid Storage and Cross-Board Long-ring Pipelines
+- Ankun Tian, Shidi Tang, Ruiqi Chen and **Ming Ling**
+- 2026 Design, Automation & Test in Europe Conference (DATE)
+- DOI: coming soon
+
+### Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA
+- Shidi Tang, Chuanzhao Zhang, Ruiqi Chen, Yuxuan Lv, Bruno Silva and **Ming Ling**
+- 2026 Design, Automation & Test in Europe Conference (DATE)
+- DOI: [coming soon](https://past.date-conference.com/proceedings-archive/2026/DATA/473.pdf)
+
+### A novel RISC-V core for the networking processing processor with bit-level custom instructions and thread-aware fetching architecture
+- Jiakun Chen, Yuanming Fu, Yuyu Lian, Jianhui Han, Jianyuan Pi and **Ming Ling**
+- Integration
+- DOI: [10.1016/j.vlsi.2026.102749](https://doi.org/10.1016/j.vlsi.2026.102749)
+
 ### BenDan: Benchmarking DPU performance on FPGAs
 - Han Bao, Xingyu Liu, Xiaoke Wang, Ahmed Sadaqa, Yanxiang Zhu, Shidi Tang, Ruiqi Chen, **Ming Ling**, Bruno da Silva
 - Integration
