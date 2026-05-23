@@ -7,6 +7,22 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/ISEDA_2026_1.jpg">
+    <figcaption>
+        Qi Liu attending the ISEDA'26 conference at Singapore.
+        <br>
+        2026.5.8
+    </figcaption>
+<br>
+
+<img src="../../images/picture/ISEDA_2026_2.jpg">
+    <figcaption>
+        Qi Liu attending the ISEDA'26 conference at Singapore.
+        <br>
+        2026.5.8
+    </figcaption>
+<br>
+
 <img src="../../images/picture/DATE_main_gate.jpg">
     <figcaption>
         Prof. Ling, Shidi Tang, and Ankun Tian attending the DATE'26 conference at Verona, Italy.
