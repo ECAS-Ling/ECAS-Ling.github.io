@@ -7,6 +7,14 @@ author_profile: true
 <center>
 <br>
 
+<img src="../../images/picture/bruno_visiting_seu.png">
+    <figcaption>
+        Prof. Bruno da Silva from VUB visiting our group ECAS at SEU
+        <br>
+        2026.5.28
+    </figcaption>
+<br>
+
 <img src="../../images/picture/ISEDA_2026_1.jpg">
     <figcaption>
         Qi Liu attending the ISEDA'26 conference at Singapore.

@@ -27,6 +27,7 @@ Ming Ling received his B.S., M.S. and Ph.D. degrees from Southeast University in
 
 🔥News
 ======
+- *2026.5*: &nbsp;🎉🎉 Congradulations on the 2026 Excellent Master Thesis Award, Southeast University, which won by Mr. Rui Liu
 - *2026.3*: &nbsp;🎉🎉 [*BenDan: Benchmarking DPU performance on FPGAs*](https://www.sciencedirect.com/science/article/pii/S0167926026000507) is accepeted in Integration!
 - *2026.3*: &nbsp;🎉🎉 Two papaers are accepted in [*ISEDA'26*](https://www.eda2.com/iseda/index.html)!
 - *2026.1*: &nbsp;🎉🎉 [*FP8ApproxLib: An FPGA-based approximate multiplier library for 8-bit floating point*](https://www.sciencedirect.com/science/article/pii/S1383762126000044) is accepeted in Journal of Systems Architecture!
