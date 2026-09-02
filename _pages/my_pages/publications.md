@@ -5,15 +5,20 @@ author_profile: true
 ---
 # 2026
 
+### DiffDock-FPGA: An Efficient Molecular Docking Accelerator with Multi-Level Parallelism and Specialized Tensor Product Kernels
+- Chuanzhao Zhang, Shidi Tang, Shun Li, Rui Liu, Ruiqi Chen, **Ming Ling**
+- Neurocomputing
+- DOI: 10.1016/j.neucom.2026.134921
+
 ### Breaking the BRAM Wall: Scalable Vina FPGA Acceleration via Distributed Grid Storage and Cross-Board Long-ring Pipelines
 - Ankun Tian, Shidi Tang, Ruiqi Chen and **Ming Ling**
 - 2026 Design, Automation & Test in Europe Conference (DATE)
-- DOI: coming soon
+- DOI: https://doi.org/10.23919/DATE69613.2026.11539196
 
 ### Equicore: Accelerating Clebsch-Gordan Tensor Product of Equivariant Neural Networks on FPGA
 - Shidi Tang, Chuanzhao Zhang, Ruiqi Chen, Yuxuan Lv, Bruno Silva and **Ming Ling**
 - 2026 Design, Automation & Test in Europe Conference (DATE)
-- DOI: [coming soon](https://past.date-conference.com/proceedings-archive/2026/DATA/473.pdf)
+- DOI: https://doi.org/10.23919/DATE69613.2026.11539429
 
 ### A novel RISC-V core for the networking processing processor with bit-level custom instructions and thread-aware fetching architecture
 - Jiakun Chen, Yuanming Fu, Yuyu Lian, Jianhui Han, Jianyuan Pi and **Ming Ling**
