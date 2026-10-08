@@ -181,13 +181,6 @@ author_profile: true
 
 <div class="row">
     <div class="member">
-        <img src="..\..\images\picture\personal\ruiyibo.jpg" alt="">
-        <div class="member-info">
-            <h3>Yibo Rui<br>芮懿博</h3>
-            <p>RISC-V<br>2023 Fall</p>
-        </div>
-    </div>
-    <div class="member">
         <img src="..\..\images\picture\personal\wangrui.jpg" alt="">
         <div class="member-info">
             <h3>Rui Wang<br>王锐</h3>
